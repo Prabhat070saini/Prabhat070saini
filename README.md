@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [HomeSphere](https://homesphere-4d63.onrender.com/)
 
-- 👨‍💻 All of my projects are available at [portfolio-9ug.pages.dev](portfolio-9ug.pages.dev)
+  - 👨‍💻 All of my projects are available at [portfolio-9ug.pages.dev](https://portfolio-9ug.pages.dev/)
 
 - 💬 Ask me about **React Javascript Mongodb Nodejs express.js**
 
